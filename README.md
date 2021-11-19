@@ -1,4 +1,4 @@
-## PBRP device tree for the Samsung f415F.
+## PBRP device tree for the Samsung F415F.
 
 ## How to compile
 
