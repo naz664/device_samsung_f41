@@ -16,7 +16,4 @@
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_f41.mk
 
-COMMON_LUNCH_CHOICES := \
-		omni_f41-eng \
-		omni_f41-user \
-		omni_f41-userdebug
+COMMON_LUNCH_CHOICES := omni_f41-eng
