@@ -1,4 +1,4 @@
-## PBRP device tree for the Samsung F415F.
+## PBRP device tree for the Samsung f415F.
 
 ## How to compile
 
@@ -9,7 +9,7 @@ git clone https://github.com/naz664/device_samsung_f41.git device/samsung/f41
 ```
 3. To build:
 ```
-export ALLOW_MISSING_DEPENDENCIES=true && . build/envsetup.sh && lunch omni_f41-eng && mka recoveryimage -j$(nproc)
+export ALLOW_MISSING_DEPENDENCIES=true && . build/envsetup.sh && lunch omni_f41-eng && mka recoveryimage -j$(nproc --all)
 ```
 
 
