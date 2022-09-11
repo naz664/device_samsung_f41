@@ -5,7 +5,7 @@
 1. Set up the build environment following instructions from [here](https://github.com/PitchBlackRecoveryProject/manifest_pb)
 2. Clone the device tree in the root of PBRP source:
 ```
-git clone https://github.com/naz664/device_samsung_f41.git device/samsung/f41
+git clone https://github.com/naz664/device_samsung_f41.git device/samsung/f41 -b PBRP-12
 ```
 3. To build:
 ```
